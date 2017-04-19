@@ -13,7 +13,8 @@
     },
     "autoload": {
         "psr-4": {
-            "WHM\\": "src/"
+            "HinaPlugin\\WHM\\": "src/WHM/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
